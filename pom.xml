@@ -62,7 +62,8 @@
 			<groupId>se.uu.ub.cora</groupId>
 			<artifactId>jsclient</artifactId>
 			<version>${jsclient.version}</version>
-			<scope>war</scope>
+			<type>war</type>
+			<scope>compile</scope>
 		</dependency>
 	</dependencies>
 
