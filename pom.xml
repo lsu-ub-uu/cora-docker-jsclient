@@ -23,7 +23,7 @@
 	<parent>
 		<groupId>se.uu.ub.cora</groupId>
 		<artifactId>cora-parent</artifactId>
-		<version>1.4.4</version>
+		<version>2.0.0</version>
 	</parent>
 
 	<artifactId>cora-docker-jsclient</artifactId>
@@ -35,7 +35,7 @@
 		<outputDirectory>${project.build.directory}/docker</outputDirectory>
 		<exec-maven-plugin.version>3.0.0</exec-maven-plugin.version>
 
-		<cora-docker-tomcat.version>2.0.0</cora-docker-tomcat.version>
+		<cora-docker-tomcat.version>2.1.0</cora-docker-tomcat.version>
 		<jsclient.version>1.12-SNAPSHOT</jsclient.version>
 	</properties>
 
