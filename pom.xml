@@ -33,7 +33,7 @@
 
 	<properties>
 		<cora-docker-tomcat.version>2.5.0</cora-docker-tomcat.version>
-		<jsclient.version>1.24-SNAPSHOT</jsclient.version>
+		<jsclient.version>1.24.0</jsclient.version>
 		<!-- Override property so docker-build profile activates in this module -->
 		<docker.build.activate>true</docker.build.activate>
 	</properties>
