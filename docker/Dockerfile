@@ -6,4 +6,4 @@ COPY /jsclient.war /usr/local/tomcat/webapps/jsclient.war
 COPY entrypoint.sh       .
 RUN chmod +x entrypoint.sh
 
-ENTRYPOINT ["./entrypoint.sh"]
+#ENTRYPOINT ["./entrypoint.sh"]
