@@ -27,7 +27,7 @@
 
 	<artifactId>cora-docker-jsclient</artifactId>
 	<packaging>pom</packaging>
-	<version>1.29-SNAPSHOT</version>
+	<version>1.30-SNAPSHOT</version>
 	<name>Cora jsClient docker</name>
 
 	<properties>
